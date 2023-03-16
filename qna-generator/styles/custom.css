@@ -1,0 +1,14 @@
+#summary-container {
+    background-color: rgba(0,0,0,0);
+    color: rgb(41,41,41);
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+#summary-container > h2 {
+    font-size: 20px;
+}
+
+#summary-container > p {
+    font-size: 20px;
+}
